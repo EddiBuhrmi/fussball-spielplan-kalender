@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:97d9c3e4dd23585b8e591ac043dc1ce5b38adda69ab83cd394189c9ce726165d@fussba
- ll-spielplan-kalender
-DTSTAMP:20260720T080625Z
-DTSTART;TZID=Europe/Berlin:20260719T160000
-DTEND;TZID=Europe/Berlin:20260719T174500
-SUMMARY:ASV Altenlingen - SV Holthausen Biene II (5:0)
-DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/asv-a
- ltenlingen-sv-holthausen-biene-ii/-/spiel/031G24CT40000000VS5489BUVSJ4CRAP
-URL:https://www.fussball.de/spiel/asv-altenlingen-sv-holthausen-biene-ii/-/
- spiel/031G24CT40000000VS5489BUVSJ4CRAP
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:d41a107290b66422127fe2fe3234dc6d37eadafd66b1a42a8ec9bfa3c48c9864@fussba
  ll-spielplan-kalender
 DTSTAMP:20260727T083129Z
@@ -173,10 +159,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:63b241cf21ece8d3f7311713a59a3c68e8e73f807947dd50af7971e3f78fe65b@fussba
  ll-spielplan-kalender
-DTSTAMP:20260718T070047Z
+DTSTAMP:20260914T102205Z
 DTSTART;TZID=Europe/Berlin:20260913T150000
 DTEND;TZID=Europe/Berlin:20260913T164500
-SUMMARY:SV Holthausen Biene II - SV Voran Brögbern
+SUMMARY:SV Holthausen Biene II - SV Voran Brögbern (3:1)
 DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
  sen-biene-ii-sv-voran-broegbern/-/spiel/0317I0VHF0000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sv-voran-broegbern
@@ -309,6 +295,20 @@ DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sg-osterbr
  LE
 URL:https://www.fussball.de/spiel/sg-osterbrock-geeste-1-sv-holthausen-bien
  e-ii/-/spiel/0317I0VFVG000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d4c706c97d8f4c64b11133bcafa4ff46f966c65f07a428200a89252528dad8e0@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260914T102205Z
+DTSTART;TZID=Europe/Berlin:20261108T140000
+DTEND;TZID=Europe/Berlin:20261108T154500
+SUMMARY:SV Holthausen Biene II - SuS Darme 1926 e.V. 1
+DESCRIPTION:Wettbewerb: Kreisliga\nhttps://www.fussball.de/spiel/sv-holthau
+ sen-biene-ii-sus-darme-1926-ev-1/-/spiel/0317I0VFSK000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-ii-sus-darme-1926-ev-
+ 1/-/spiel/0317I0VFSK000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

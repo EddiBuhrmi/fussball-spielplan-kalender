@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:485452e2858010284972b80fb9915ec8fabf3accbff8058516e0b0356c77b5cb@fussba
- ll-spielplan-kalender
-DTSTAMP:20260723T073349Z
-DTSTART;TZID=Europe/Berlin:20260721T194000
-DTEND;TZID=Europe/Berlin:20260721T212500
-SUMMARY:SV Holthausen Biene III - SG Osterbrock/​Geeste 1 (0:3)
-DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/sv-ho
- lthausen-biene-iii-sg-osterbrock-geeste-1/-/spiel/031C3ATMC8000000VS5489BT
- VUS470OH
-URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sg-osterbrock-gee
- ste-1/-/spiel/031C3ATMC8000000VS5489BTVUS470OH
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:27a4af6560f4a97019f4e8a1a9f670effeaec7c38a0aef18a8bbd9de1ed434d4@fussba
  ll-spielplan-kalender
 DTSTAMP:20260723T073349Z
@@ -173,10 +158,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2d46b3cb362098ec3513e3059d01eaa6b3fa9501549d22ef869d1af7fc6b4f77@fussba
  ll-spielplan-kalender
-DTSTAMP:20260729T074430Z
+DTSTAMP:20260914T102205Z
 DTSTART;TZID=Europe/Berlin:20260913T130000
 DTEND;TZID=Europe/Berlin:20260913T144500
-SUMMARY:SV Holthausen Biene III - SV Heidekraut Andervenne
+SUMMARY:SV Holthausen Biene III - SV Heidekraut Andervenne (0:3)
 DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  thausen-biene-iii-sv-heidekraut-andervenne/-/spiel/0317I2TBNC000000VS5489B
  TVU7GTVLE
