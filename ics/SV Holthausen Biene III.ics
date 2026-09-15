@@ -232,9 +232,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:821883591374f545eee3b577c22279d727bb6f6a8797df7fe17e9638b6077f5e@fussba
  ll-spielplan-kalender
-DTSTAMP:20260803T083026Z
-DTSTART;TZID=Europe/Berlin:20261101T120000
-DTEND;TZID=Europe/Berlin:20261101T134500
+DTSTAMP:20260915T094833Z
+DTSTART;TZID=Europe/Berlin:20261029T193000
+DTEND;TZID=Europe/Berlin:20261029T211500
 SUMMARY:SV Holthausen Biene III - SV Listrup II
 DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  thausen-biene-iii-sv-listrup-ii/-/spiel/0317I2TAV8000000VS5489BTVU7GTVLE
@@ -283,6 +283,20 @@ DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sv-hol
  GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-iii-sc-spelle-venhaus
  -iv/-/spiel/0317I2TF1G000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8d8d46edbd726bf90b926be647e4840fa1aeca09d801f4ec1297fc633edb4b6b@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260915T094833Z
+DTSTART;TZID=Europe/Berlin:20270314T150000
+DTEND;TZID=Europe/Berlin:20270314T164500
+SUMMARY:SG Freren II - SV Holthausen Biene III
+DESCRIPTION:Wettbewerb: 2.Kreisklasse\nhttps://www.fussball.de/spiel/sg-fre
+ ren-ii-sv-holthausen-biene-iii/-/spiel/0317I2TEKO000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sg-freren-ii-sv-holthausen-biene-iii/-/sp
+ iel/0317I2TEKO000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
