@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d77d6130df81a246dfcd9c21d78c79a9c8e09f3d6645b651ac9d8ecbb2d0dc5d@fussba
- ll-spielplan-kalender
-DTSTAMP:20260722T073439Z
-DTSTART;TZID=Europe/Berlin:20260721T193000
-DTEND;TZID=Europe/Berlin:20260721T211500
-SUMMARY:SG Freren - SV Holthausen Biene (2:4)
-DESCRIPTION:Wettbewerb: Bezirksfreundschaftsspiele\nhttps://www.fussball.de
- /spiel/sg-freren-sv-holthausen-biene/-/spiel/03164619MG000000VS5489BUVSBBV
- PEU
-URL:https://www.fussball.de/spiel/sg-freren-sv-holthausen-biene/-/spiel/031
- 64619MG000000VS5489BUVSBBVPEU
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:893ac4fae07132f49350c4f0ce9d1d018fe46f590484c12eb594c5207bc0997e@fussba
  ll-spielplan-kalender
 DTSTAMP:20260727T083129Z
@@ -171,10 +156,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2e6e868b54c71c9da6fed14158a46de735cb16af8e72a93c556b4c21c6e3306c@fussba
  ll-spielplan-kalender
-DTSTAMP:20260722T073439Z
+DTSTAMP:20260921T102632Z
 DTSTART;TZID=Europe/Berlin:20260920T150000
 DTEND;TZID=Europe/Berlin:20260920T164500
-SUMMARY:TuS Pewsum - SV Holthausen Biene
+SUMMARY:TuS Pewsum - SV Holthausen Biene (2:1)
 DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/tus-pewsu
  m-sv-holthausen-biene/-/spiel/0315MRNUD0000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/tus-pewsum-sv-holthausen-biene/-/spiel/03
@@ -306,6 +291,20 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
  usen-biene-vfl-oldenburg/-/spiel/0315MROA5C000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sv-holthausen-biene-vfl-oldenburg/-/spiel
  /0315MROA5C000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e4ca6170be952e2190f347ed49a52a50b1ed373c8c1281315320f8dfbfc3c296@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260921T102632Z
+DTSTART;TZID=Europe/Berlin:20261122T150000
+DTEND;TZID=Europe/Berlin:20261122T164500
+SUMMARY:SC Melle 03 - SV Holthausen Biene
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sc-melle-
+ 03-sv-holthausen-biene/-/spiel/0315MRO90G000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sc-melle-03-sv-holthausen-biene/-/spiel/0
+ 315MRO90G000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
