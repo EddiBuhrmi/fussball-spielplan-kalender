@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:893ac4fae07132f49350c4f0ce9d1d018fe46f590484c12eb594c5207bc0997e@fussba
- ll-spielplan-kalender
-DTSTAMP:20260727T083129Z
-DTSTART;TZID=Europe/Berlin:20260726T150000
-DTEND;TZID=Europe/Berlin:20260726T164500
-SUMMARY:SpVgg. Brandlecht-Hestrup - SV Holthausen Biene (0:5)
-DESCRIPTION:Wettbewerb: Bezirkspokal\nhttps://www.fussball.de/spiel/spvgg-b
- randlecht-hestrup-sv-holthausen-biene/-/spiel/0319T4RVBC000000VS5489BTVSK8
- S3O6
-URL:https://www.fussball.de/spiel/spvgg-brandlecht-hestrup-sv-holthausen-bi
- ene/-/spiel/0319T4RVBC000000VS5489BTVSK8S3O6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:a8d9af84132687d76ba1b2bea1971cb6756fd96c872b9d1046a22f1679d46ce9@fussba
  ll-spielplan-kalender
 DTSTAMP:20260803T083026Z
@@ -170,10 +155,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2daba3156d5ea02c3078d78734abd44132cd04576bbabdc0ed0bc7e655291a7e@fussba
  ll-spielplan-kalender
-DTSTAMP:20260825T053238Z
+DTSTAMP:20260925T100225Z
 DTSTART;TZID=Europe/Berlin:20260924T193000
 DTEND;TZID=Europe/Berlin:20260924T211500
-SUMMARY:SV Alemannia Salzbergen - SV Holthausen Biene
+SUMMARY:SV Alemannia Salzbergen - SV Holthausen Biene (3:2)
 DESCRIPTION:Wettbewerb: Bezirkspokal\nhttps://www.fussball.de/spiel/sv-alem
  annia-salzbergen-sv-holthausen-biene/-/spiel/031PDTS08C000000VS5489BTVT8K1
  1BC
@@ -305,6 +290,20 @@ DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sc-melle-
  03-sv-holthausen-biene/-/spiel/0315MRO90G000000VS5489BTVU7GTVLE
 URL:https://www.fussball.de/spiel/sc-melle-03-sv-holthausen-biene/-/spiel/0
  315MRO90G000000VS5489BTVU7GTVLE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:000648622f9910a13acc8e3f89bc849fc432423d260b9667de7b09645d7fa991@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260925T100225Z
+DTSTART;TZID=Europe/Berlin:20261129T140000
+DTEND;TZID=Europe/Berlin:20261129T154500
+SUMMARY:SV Holthausen Biene - SV Altenoythe
+DESCRIPTION:Wettbewerb: Landesliga\nhttps://www.fussball.de/spiel/sv-holtha
+ usen-biene-sv-altenoythe/-/spiel/0315MRO8LS000000VS5489BTVU7GTVLE
+URL:https://www.fussball.de/spiel/sv-holthausen-biene-sv-altenoythe/-/spiel
+ /0315MRO8LS000000VS5489BTVU7GTVLE
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
