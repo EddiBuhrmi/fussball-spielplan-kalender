@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fussball-spielplan-kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:tus-ovenstaedt
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:62e57a9ba282acc5f8123b5bfa335be2feddec4a0518d3311b1e383ebe9bd582@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260926T215713Z
+DTSTART;TZID=Europe/Berlin:20260714T174500
+DTEND;TZID=Europe/Berlin:20260714T193000
+SUMMARY:[Absetzung] SG Fabbenstedt/​Isenstedt - TuS Petershagen/​Ovenst
+ ädt
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nStatus: Absetzung\nhttps:
+ //www.fussball.de/spiel/sg-fabbenstedt-isenstedt-tus-petershagen-ovenstaed
+ t/-/spiel/031BE94OH4000000VS5489BUVUR5FS5A
+URL:https://www.fussball.de/spiel/sg-fabbenstedt-isenstedt-tus-petershagen-
+ ovenstaedt/-/spiel/031BE94OH4000000VS5489BUVUR5FS5A
+STATUS:CANCELLED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:62e57a9ba282acc5f8123b5bfa335be2feddec4a0518d3311b1e383ebe9bd582@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260926T215713Z
+DTSTART;TZID=Europe/Berlin:20260714T174500
+DTEND;TZID=Europe/Berlin:20260714T193000
+SUMMARY:SG Fabbenstedt/​Isenstedt - TuS Petershagen/​Ovenstädt (2:13)
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/sg-fabbenstedt-isenstedt-tus-petershagen-ovenstaedt/-/spiel/031BF6SL2
+ C000000VS5489BTVUS470OH
+URL:https://www.fussball.de/spiel/sg-fabbenstedt-isenstedt-tus-petershagen-
+ ovenstaedt/-/spiel/031BF6SL2C000000VS5489BTVUS470OH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:632df035cc8abd250cc178b44b6d1d95729a8a1d45cd554fc28b324c17288b1a@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260926T215713Z
+DTSTART;TZID=Europe/Berlin:20260802T130000
+DTEND;TZID=Europe/Berlin:20260802T144500
+SUMMARY:JSG Nendorf/​Uchte/​Woltringhausen-Hoy. I (9er) - TuS Petershag
+ en/​Ovenstädt (2:5)
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/jsg-nendorf-uchte-woltringhausen-hoy-i-9er-tus-petershagen-ovenstaedt
+ /-/spiel/031I00V5NG000000VS5489BTVSRD0UH9
+URL:https://www.fussball.de/spiel/jsg-nendorf-uchte-woltringhausen-hoy-i-9e
+ r-tus-petershagen-ovenstaedt/-/spiel/031I00V5NG000000VS5489BTVSRD0UH9
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:996d90199d43b3fb32f529e63e913e306a1c6a5b4608a0a75356a8f4c210e516@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260926T215713Z
+DTSTART;TZID=Europe/Berlin:20260815T110000
+DTEND;TZID=Europe/Berlin:20260815T124500
+SUMMARY:FC Exter - TuS Petershagen/​Ovenstädt (0:4)
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/fc-exter-tus-petershagen-ovenstaedt/-/spiel/031LPSSUI0000000VS5489BTV
+ SRD0UH9
+URL:https://www.fussball.de/spiel/fc-exter-tus-petershagen-ovenstaedt/-/spi
+ el/031LPSSUI0000000VS5489BTVSRD0UH9
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1fc70a80fe770441815dca190f109a502102e0ed07d63cb30e463df9ecb32d71@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260926T215713Z
+DTSTART;TZID=Europe/Berlin:20260818T173000
+DTEND;TZID=Europe/Berlin:20260818T191500
+SUMMARY:FC Preußen Espelkamp II - TuS Petershagen/​Ovenstädt (2:5)
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/fc-preussen-espelkamp-ii-tus-petershagen-ovenstaedt/-/spiel/031NGKAMF
+ O000000VS5489BUVT2M8LCU
+URL:https://www.fussball.de/spiel/fc-preussen-espelkamp-ii-tus-petershagen-
+ ovenstaedt/-/spiel/031NGKAMFO000000VS5489BUVT2M8LCU
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cded2dba46b90885a79a42c420a264d48a4be43765da5a8727648a1156d53e67@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260926T215713Z
+DTSTART;TZID=Europe/Berlin:20260831T171500
+DTEND;TZID=Europe/Berlin:20260831T190000
+SUMMARY:JSG Holzhausen/​Hausberge II - TuS Petershagen/​Ovenstädt (1:2
+ )
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/jsg-holzhausen-hausberge-ii-tus-petershagen-ovenstaedt/-/spiel/031LQU
+ TBJ0000000VS5489BUVVKNMR0J
+URL:https://www.fussball.de/spiel/jsg-holzhausen-hausberge-ii-tus-petershag
+ en-ovenstaedt/-/spiel/031LQUTBJ0000000VS5489BUVVKNMR0J
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:47ddf0f204f57e125ec4876f52f6205281c6ba0ee3b450a08e5f6a7fd1100a2a@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260926T215713Z
+DTSTART;TZID=Europe/Berlin:20260901T170000
+DTEND;TZID=Europe/Berlin:20260901T184500
+SUMMARY:SVKT 07 Minden II - TuS Petershagen/​Ovenstädt (2:1)
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/svkt-07-minden-ii-tus-petershagen-ovenstaedt/-/spiel/031QAS6P1K000000
+ VS5489BUVSV0FPBG
+URL:https://www.fussball.de/spiel/svkt-07-minden-ii-tus-petershagen-ovensta
+ edt/-/spiel/031QAS6P1K000000VS5489BUVSV0FPBG
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a8cc94af23df567c8d83d58c73bdce75e890f058a25e399683b07e2dc5fb81f@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260926T215713Z
+DTSTART;TZID=Europe/Berlin:20260905T110000
+DTEND;TZID=Europe/Berlin:20260905T124500
+SUMMARY:TuS Petershagen/​Ovenstädt - SC RW Maaslingen (1:0)
+DESCRIPTION:Wettbewerb: Kreispokal\nhttps://www.fussball.de/spiel/tus-peter
+ shagen-ovenstaedt-sc-rw-maaslingen/-/spiel/031J9J6ATO000000VS5489BTVSRD0UH
+ 9
+URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-sc-rw-maasling
+ en/-/spiel/031J9J6ATO000000VS5489BTVSRD0UH9
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:52a9b9e194de7c43769396f1677753b0a6f08c0a974873b77b49a1e1e9bcc236@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260926T215713Z
+DTSTART;TZID=Europe/Berlin:20260924T180000
+DTEND;TZID=Europe/Berlin:20260924T194500
+SUMMARY:TuS Petershagen/​Ovenstädt - JFV Lohe-Bad Oeynhausen (3:5)
+DESCRIPTION:Wettbewerb: Kreispokal\nhttps://www.fussball.de/spiel/tus-peter
+ shagen-ovenstaedt-jfv-lohe-bad-oeynhausen/-/spiel/031J9JLAAK000000VS5489BT
+ VSRD0UH9
+URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-jfv-lohe-bad-o
+ eynhausen/-/spiel/031J9JLAAK000000VS5489BTVSRD0UH9
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e4197ccc89fa7a2570138d0c4ca1e76902b142d3fc46cb839c985eff3e41fc31@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260926T215713Z
+DTSTART;TZID=Europe/Berlin:20260926T123000
+DTEND;TZID=Europe/Berlin:20260926T141500
+SUMMARY:FJ Minden-Süd - TuS Petershagen/​Ovenstädt (0:1)
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/fj-minde
+ n-sued-tus-petershagen-ovenstaedt/-/spiel/031Q9M7K08000000VS5489BUVSV0FPBG
+URL:https://www.fussball.de/spiel/fj-minden-sued-tus-petershagen-ovenstaedt
+ /-/spiel/031Q9M7K08000000VS5489BUVSV0FPBG
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:50e3d7167db5f978db371c44d358314f09f13eb7812bdfe58b355cd12e8c44a0@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260926T215713Z
+DTSTART;TZID=Europe/Berlin:20260929T171500
+DTEND;TZID=Europe/Berlin:20260929T190000
+SUMMARY:TuS Petershagen/​Ovenstädt - SC RW Maaslingen
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
+ rshagen-ovenstaedt-sc-rw-maaslingen/-/spiel/031Q9M7JSG000000VS5489BUVSV0FP
+ BG
+URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-sc-rw-maasling
+ en/-/spiel/031Q9M7JSG000000VS5489BUVSV0FPBG
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d818a3e758232f1a83f1d67aacc2f704a067743da6be40e4ae8e6193775ab73@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260926T215713Z
+DTSTART;TZID=Europe/Berlin:20261001T180000
+DTEND;TZID=Europe/Berlin:20261001T194500
+SUMMARY:SVKT 07 Minden II - TuS Petershagen/​Ovenstädt
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/svkt-07-
+ minden-ii-tus-petershagen-ovenstaedt/-/spiel/031Q9M7JMO000000VS5489BUVSV0F
+ PBG
+URL:https://www.fussball.de/spiel/svkt-07-minden-ii-tus-petershagen-ovensta
+ edt/-/spiel/031Q9M7JMO000000VS5489BUVSV0FPBG
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d99bebf07d37bc5c5fc0c856ba3864b9f2fc044dde5a0716eeedd30ce8fddfcb@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260926T215713Z
+DTSTART;TZID=Europe/Berlin:20261008T173000
+DTEND;TZID=Europe/Berlin:20261008T191500
+SUMMARY:TuS Petershagen/​Ovenstädt - FSG Weserland
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
+ rshagen-ovenstaedt-fsg-weserland/-/spiel/031Q9M7K4S000000VS5489BUVSV0FPBG
+URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-fsg-weserland/
+ -/spiel/031Q9M7K4S000000VS5489BUVSV0FPBG
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4c31a4f0ab6d47260f89e0f4f3853094fed7d3b89a0d911ac3ce33e1269f75a4@fussba
+ ll-spielplan-kalender
+DTSTAMP:20260926T215713Z
+DTSTART;TZID=Europe/Berlin:20261010T123000
+DTEND;TZID=Europe/Berlin:20261010T141500
+SUMMARY:JSG Porta Westfalica/​Kleinenbr.o.W. - TuS Petershagen/​Ovenst
+ ädt
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/jsg-port
+ a-westfalica-kleinenbremen-tus-petershagen-ovenstaedt/-/spiel/031Q9M7K5K00
+ 0000VS5489BUVSV0FPBG
+URL:https://www.fussball.de/spiel/jsg-porta-westfalica-kleinenbremen-tus-pe
+ tershagen-ovenstaedt/-/spiel/031Q9M7K5K000000VS5489BUVSV0FPBG
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
