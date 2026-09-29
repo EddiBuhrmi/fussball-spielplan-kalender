@@ -31,22 +31,6 @@ UID:62e57a9ba282acc5f8123b5bfa335be2feddec4a0518d3311b1e383ebe9bd582@fussba
 DTSTAMP:20260926T215713Z
 DTSTART;TZID=Europe/Berlin:20260714T174500
 DTEND;TZID=Europe/Berlin:20260714T193000
-SUMMARY:[Absetzung] SG Fabbenstedt/​Isenstedt - TuS Petershagen/​Ovenst
- ädt
-DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nStatus: Absetzung\nhttps:
- //www.fussball.de/spiel/sg-fabbenstedt-isenstedt-tus-petershagen-ovenstaed
- t/-/spiel/031BE94OH4000000VS5489BUVUR5FS5A
-URL:https://www.fussball.de/spiel/sg-fabbenstedt-isenstedt-tus-petershagen-
- ovenstaedt/-/spiel/031BE94OH4000000VS5489BUVUR5FS5A
-STATUS:CANCELLED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:62e57a9ba282acc5f8123b5bfa335be2feddec4a0518d3311b1e383ebe9bd582@fussba
- ll-spielplan-kalender
-DTSTAMP:20260926T215713Z
-DTSTART;TZID=Europe/Berlin:20260714T174500
-DTEND;TZID=Europe/Berlin:20260714T193000
 SUMMARY:SG Fabbenstedt/​Isenstedt - TuS Petershagen/​Ovenstädt (2:13)
 DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
  piel/sg-fabbenstedt-isenstedt-tus-petershagen-ovenstaedt/-/spiel/031BF6SL2
@@ -180,10 +164,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:50e3d7167db5f978db371c44d358314f09f13eb7812bdfe58b355cd12e8c44a0@fussba
  ll-spielplan-kalender
-DTSTAMP:20260926T215713Z
+DTSTAMP:20260929T194515Z
 DTSTART;TZID=Europe/Berlin:20260929T171500
 DTEND;TZID=Europe/Berlin:20260929T190000
-SUMMARY:TuS Petershagen/​Ovenstädt - SC RW Maaslingen
+SUMMARY:TuS Petershagen/​Ovenstädt - SC RW Maaslingen (1:2)
 DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
  rshagen-ovenstaedt-sc-rw-maaslingen/-/spiel/031Q9M7JSG000000VS5489BUVSV0FP
  BG
