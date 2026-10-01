@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:62e57a9ba282acc5f8123b5bfa335be2feddec4a0518d3311b1e383ebe9bd582@fussba
- ll-spielplan-kalender
-DTSTAMP:20260926T215713Z
-DTSTART;TZID=Europe/Berlin:20260714T174500
-DTEND;TZID=Europe/Berlin:20260714T193000
-SUMMARY:SG Fabbenstedt/​Isenstedt - TuS Petershagen/​Ovenstädt (2:13)
-DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
- piel/sg-fabbenstedt-isenstedt-tus-petershagen-ovenstaedt/-/spiel/031BF6SL2
- C000000VS5489BTVUS470OH
-URL:https://www.fussball.de/spiel/sg-fabbenstedt-isenstedt-tus-petershagen-
- ovenstaedt/-/spiel/031BF6SL2C000000VS5489BTVUS470OH
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:632df035cc8abd250cc178b44b6d1d95729a8a1d45cd554fc28b324c17288b1a@fussba
  ll-spielplan-kalender
 DTSTAMP:20260926T215713Z
@@ -179,10 +164,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1d818a3e758232f1a83f1d67aacc2f704a067743da6be40e4ae8e6193775ab73@fussba
  ll-spielplan-kalender
-DTSTAMP:20260926T215713Z
+DTSTAMP:20261001T204437Z
 DTSTART;TZID=Europe/Berlin:20261001T180000
 DTEND;TZID=Europe/Berlin:20261001T194500
-SUMMARY:SVKT 07 Minden II - TuS Petershagen/​Ovenstädt
+SUMMARY:SVKT 07 Minden II - TuS Petershagen/​Ovenstädt (0:5)
 DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/svkt-07-
  minden-ii-tus-petershagen-ovenstaedt/-/spiel/031Q9M7JMO000000VS5489BUVSV0F
  PBG
