@@ -195,9 +195,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d99bebf07d37bc5c5fc0c856ba3864b9f2fc044dde5a0716eeedd30ce8fddfcb@fussba
  ll-spielplan-kalender
-DTSTAMP:20260930T211039Z
-DTSTART;TZID=Europe/Berlin:20261015T173000
-DTEND;TZID=Europe/Berlin:20261015T191500
+DTSTAMP:20261005T233620Z
+DTSTART;TZID=Europe/Berlin:20261012T173000
+DTEND;TZID=Europe/Berlin:20261012T191500
 SUMMARY:TuS Petershagen/​Ovenstädt - FSG Weserland
 DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
  rshagen-ovenstaedt-fsg-weserland/-/spiel/031Q9M7K4S000000VS5489BUVSV0FPBG
