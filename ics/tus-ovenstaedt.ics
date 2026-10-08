@@ -206,4 +206,19 @@ URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-fsg-weserland/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:de227237759b9d4427769f7674d37b784c9f1f52baba2055a523e8a69599e82d@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261008T081832Z
+DTSTART;TZID=Europe/Berlin:20261017T110000
+DTEND;TZID=Europe/Berlin:20261017T124500
+SUMMARY:Union Minden - TuS Petershagen/​Ovenstädt
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/union-minden-tus-petershagen-ovenstaedt/-/spiel/032AVDFUC8000000VS548
+ 9BTVU989P58
+URL:https://www.fussball.de/spiel/union-minden-tus-petershagen-ovenstaedt/-
+ /spiel/032AVDFUC8000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
