@@ -179,11 +179,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4c31a4f0ab6d47260f89e0f4f3853094fed7d3b89a0d911ac3ce33e1269f75a4@fussba
  ll-spielplan-kalender
-DTSTAMP:20260926T215713Z
+DTSTAMP:20261010T131343Z
 DTSTART;TZID=Europe/Berlin:20261010T123000
 DTEND;TZID=Europe/Berlin:20261010T141500
 SUMMARY:JSG Porta Westfalica/​Kleinenbr.o.W. - TuS Petershagen/​Ovenst
- ädt
+ ädt (1:16)
 DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/jsg-port
  a-westfalica-kleinenbremen-tus-petershagen-ovenstaedt/-/spiel/031Q9M7K5K00
  0000VS5489BUVSV0FPBG
