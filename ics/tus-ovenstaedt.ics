@@ -26,22 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:632df035cc8abd250cc178b44b6d1d95729a8a1d45cd554fc28b324c17288b1a@fussba
- ll-spielplan-kalender
-DTSTAMP:20260926T215713Z
-DTSTART;TZID=Europe/Berlin:20260802T130000
-DTEND;TZID=Europe/Berlin:20260802T144500
-SUMMARY:JSG Nendorf/​Uchte/​Woltringhausen-Hoy. I (9er) - TuS Petershag
- en/​Ovenstädt (2:5)
-DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
- piel/jsg-nendorf-uchte-woltringhausen-hoy-i-9er-tus-petershagen-ovenstaedt
- /-/spiel/031I00V5NG000000VS5489BTVSRD0UH9
-URL:https://www.fussball.de/spiel/jsg-nendorf-uchte-woltringhausen-hoy-i-9e
- r-tus-petershagen-ovenstaedt/-/spiel/031I00V5NG000000VS5489BTVSRD0UH9
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:996d90199d43b3fb32f529e63e913e306a1c6a5b4608a0a75356a8f4c210e516@fussba
  ll-spielplan-kalender
 DTSTAMP:20260926T215713Z
