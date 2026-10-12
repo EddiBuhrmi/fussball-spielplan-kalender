@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:996d90199d43b3fb32f529e63e913e306a1c6a5b4608a0a75356a8f4c210e516@fussba
- ll-spielplan-kalender
-DTSTAMP:20260926T215713Z
-DTSTART;TZID=Europe/Berlin:20260815T110000
-DTEND;TZID=Europe/Berlin:20260815T124500
-SUMMARY:FC Exter - TuS Petershagen/​Ovenstädt (0:4)
-DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
- piel/fc-exter-tus-petershagen-ovenstaedt/-/spiel/031LPSSUI0000000VS5489BTV
- SRD0UH9
-URL:https://www.fussball.de/spiel/fc-exter-tus-petershagen-ovenstaedt/-/spi
- el/031LPSSUI0000000VS5489BTVSRD0UH9
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:1fc70a80fe770441815dca190f109a502102e0ed07d63cb30e463df9ecb32d71@fussba
  ll-spielplan-kalender
 DTSTAMP:20260926T215713Z
@@ -179,10 +164,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d99bebf07d37bc5c5fc0c856ba3864b9f2fc044dde5a0716eeedd30ce8fddfcb@fussba
  ll-spielplan-kalender
-DTSTAMP:20261005T233620Z
+DTSTAMP:20261012T204614Z
 DTSTART;TZID=Europe/Berlin:20261012T173000
 DTEND;TZID=Europe/Berlin:20261012T191500
-SUMMARY:TuS Petershagen/​Ovenstädt - FSG Weserland
+SUMMARY:TuS Petershagen/​Ovenstädt - FSG Weserland (0:0)
 DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
  rshagen-ovenstaedt-fsg-weserland/-/spiel/031Q9M7K4S000000VS5489BUVSV0FPBG
 URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-fsg-weserland/
