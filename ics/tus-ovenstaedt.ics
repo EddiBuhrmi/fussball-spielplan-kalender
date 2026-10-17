@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1fc70a80fe770441815dca190f109a502102e0ed07d63cb30e463df9ecb32d71@fussba
- ll-spielplan-kalender
-DTSTAMP:20260926T215713Z
-DTSTART;TZID=Europe/Berlin:20260818T173000
-DTEND;TZID=Europe/Berlin:20260818T191500
-SUMMARY:FC Preußen Espelkamp II - TuS Petershagen/​Ovenstädt (2:5)
-DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
- piel/fc-preussen-espelkamp-ii-tus-petershagen-ovenstaedt/-/spiel/031NGKAMF
- O000000VS5489BUVT2M8LCU
-URL:https://www.fussball.de/spiel/fc-preussen-espelkamp-ii-tus-petershagen-
- ovenstaedt/-/spiel/031NGKAMFO000000VS5489BUVT2M8LCU
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:cded2dba46b90885a79a42c420a264d48a4be43765da5a8727648a1156d53e67@fussba
  ll-spielplan-kalender
 DTSTAMP:20260926T215713Z
