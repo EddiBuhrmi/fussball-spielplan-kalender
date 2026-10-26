@@ -175,4 +175,19 @@ URL:https://www.fussball.de/spiel/union-minden-tus-petershagen-ovenstaedt/-
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:1fca123360678217c9c9af798ec2b5f54d4f5df6c254b5bb52659212d244e5ce@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261026T205035Z
+DTSTART;TZID=Europe/Berlin:20270227T120000
+DTEND;TZID=Europe/Berlin:20270227T134500
+SUMMARY:TuS Petershagen/​Ovenstädt - SV Eintracht  Jerxen-Orbke
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/tus-petershagen-ovenstaedt-sv-eintracht-jerxen-orbke/-/spiel/032GU9VU
+ 4C000000VS5489BUVSGKI48U
+URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-sv-eintracht-j
+ erxen-orbke/-/spiel/032GU9VU4C000000VS5489BUVSGKI48U
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
