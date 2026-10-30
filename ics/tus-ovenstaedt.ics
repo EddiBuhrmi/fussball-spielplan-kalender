@@ -175,4 +175,63 @@ URL:https://www.fussball.de/spiel/union-minden-tus-petershagen-ovenstaedt/-
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:89ac357d48ed0f3842a4eb621417ba6c85504e8c3510252da4d3bddd8a8817e7@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261030T092807Z
+DTSTART;TZID=Europe/Berlin:20261212T151200
+DTEND;TZID=Europe/Berlin:20261212T165700
+SUMMARY:TuS Petershagen/​Ovenstädt - VfR Wellensiek
+DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/tus-p
+ etershagen-ovenstaedt-vfr-wellensiek/-/spiel/032I30H6SC000000VS5489BTVU989
+ P58
+URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-vfr-wellensiek
+ /-/spiel/032I30H6SC000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:90b4c92b57ba06c8bfaf30a6f58bc1a55ad505b67d18effc77cdfa59fbd529b4@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261030T092807Z
+DTSTART;TZID=Europe/Berlin:20261212T160000
+DTEND;TZID=Europe/Berlin:20261212T174500
+SUMMARY:FC Unterföhring U12 - TuS Petershagen/​Ovenstädt
+DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/fc-un
+ terfoehring-u12-tus-petershagen-ovenstaedt/-/spiel/032I30H6TS000000VS5489B
+ TVU989P58
+URL:https://www.fussball.de/spiel/fc-unterfoehring-u12-tus-petershagen-oven
+ staedt/-/spiel/032I30H6TS000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:97360b56719f4f1e23d0fac9938735546efb525f3118ababa4bbd4d2639cfd0a@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261030T092807Z
+DTSTART;TZID=Europe/Berlin:20261212T164800
+DTEND;TZID=Europe/Berlin:20261212T183300
+SUMMARY:SpVg. Heepen - TuS Petershagen/​Ovenstädt
+DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/spvg-
+ heepen-tus-petershagen-ovenstaedt/-/spiel/032I30H6V4000000VS5489BTVU989P58
+URL:https://www.fussball.de/spiel/spvg-heepen-tus-petershagen-ovenstaedt/-/
+ spiel/032I30H6V4000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:82ee6e63fc813637ff70c4cabb0f8980028a43c2b2295036a94215c792d4bf3f@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261030T092807Z
+DTSTART;TZID=Europe/Berlin:20261212T181200
+DTEND;TZID=Europe/Berlin:20261212T195700
+SUMMARY:TuS Petershagen/​Ovenstädt - TuS Bad Oeynhausen
+DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/tus-p
+ etershagen-ovenstaedt-tus-bad-oeynhausen/-/spiel/032I30H70O000000VS5489BTV
+ U989P58
+URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-tus-bad-oeynha
+ usen/-/spiel/032I30H70O000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
