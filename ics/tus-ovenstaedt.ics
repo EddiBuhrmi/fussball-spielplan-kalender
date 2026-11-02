@@ -176,6 +176,78 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:876d40705256e880ead2ef9a2f41ea2805cff3e394f9047cd6e71d128a61800e@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261102T000914Z
+DTSTART;TZID=Europe/Berlin:20261107T144500
+DTEND;TZID=Europe/Berlin:20261107T163000
+SUMMARY:JFV Lohe-Bad Oeynhausen II - TuS Petershagen/​Ovenstädt
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/jfv-lohe
+ -bad-oeynhausen-ii-tus-petershagen-ovenstaedt/-/spiel/032ISTUIAG000000VS54
+ 89BUVSGKI48U
+URL:https://www.fussball.de/spiel/jfv-lohe-bad-oeynhausen-ii-tus-petershage
+ n-ovenstaedt/-/spiel/032ISTUIAG000000VS5489BUVSGKI48U
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0edc1370da2688942259960c8afaf0bea7fe372cf5eb2cacd5b70b3adb1ef3e9@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261102T000914Z
+DTSTART;TZID=Europe/Berlin:20261114T144500
+DTEND;TZID=Europe/Berlin:20261114T163000
+SUMMARY:TuS Petershagen/​Ovenstädt - JSG Am Wiehen
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
+ rshagen-ovenstaedt-jsg-am-wiehen/-/spiel/032ISTUIGO000000VS5489BUVSGKI48U
+URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-jsg-am-wiehen/
+ -/spiel/032ISTUIGO000000VS5489BUVSGKI48U
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:12170994b550215a85e22e114910ec5e67b19b8820a0f6d31849e35ee0f99425@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261102T000914Z
+DTSTART;TZID=Europe/Berlin:20261128T144500
+DTEND;TZID=Europe/Berlin:20261128T163000
+SUMMARY:TuS Petershagen/​Ovenstädt - SC Hille
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
+ rshagen-ovenstaedt-sc-hille/-/spiel/032ISTUISK000000VS5489BUVSGKI48U
+URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-sc-hille/-/spi
+ el/032ISTUISK000000VS5489BUVSGKI48U
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a5438c8fddbb87df80d14aa5f00275fbd33fbf315f589ee33ad51318418d5ab6@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261102T000914Z
+DTSTART;TZID=Europe/Berlin:20261205T144500
+DTEND;TZID=Europe/Berlin:20261205T163000
+SUMMARY:FSG Weserland - TuS Petershagen/​Ovenstädt
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/fsg-wese
+ rland-tus-petershagen-ovenstaedt/-/spiel/032ISTUJ0C000000VS5489BUVSGKI48U
+URL:https://www.fussball.de/spiel/fsg-weserland-tus-petershagen-ovenstaedt/
+ -/spiel/032ISTUJ0C000000VS5489BUVSGKI48U
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:26c2dec1db56ebea4fd22d2e7c486958dee138b527d00c7aec7cfd092d7bfe4f@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261102T000914Z
+DTSTART;TZID=Europe/Berlin:20261212T144500
+DTEND;TZID=Europe/Berlin:20261212T163000
+SUMMARY:[Absetzung] SC RW Maaslingen - TuS Petershagen/​Ovenstädt
+DESCRIPTION:Wettbewerb: Kreisliga A\nStatus: Absetzung\nhttps://www.fussbal
+ l.de/spiel/sc-rw-maaslingen-tus-petershagen-ovenstaedt/-/spiel/032ISTUJAS0
+ 00000VS5489BUVSGKI48U
+URL:https://www.fussball.de/spiel/sc-rw-maaslingen-tus-petershagen-ovenstae
+ dt/-/spiel/032ISTUJAS000000VS5489BUVSGKI48U
+STATUS:CANCELLED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:89ac357d48ed0f3842a4eb621417ba6c85504e8c3510252da4d3bddd8a8817e7@fussba
  ll-spielplan-kalender
 DTSTAMP:20261030T092807Z
@@ -231,6 +303,20 @@ DESCRIPTION:Wettbewerb: Vereinsturnier\nhttps://www.fussball.de/spiel/tus-p
  U989P58
 URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-tus-bad-oeynha
  usen/-/spiel/032I30H70O000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d9e34353798f0d328c2fb763bea5bee62f1d3a552db701b49f3a018c292a5a3a@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261102T000914Z
+DTSTART;TZID=Europe/Berlin:20270306T144500
+DTEND;TZID=Europe/Berlin:20270306T163000
+SUMMARY:TuS Petershagen/​Ovenstädt - Union Minden
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
+ rshagen-ovenstaedt-union-minden/-/spiel/032ISTUJH4000000VS5489BUVSGKI48U
+URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-union-minden/-
+ /spiel/032ISTUJH4000000VS5489BUVSGKI48U
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
