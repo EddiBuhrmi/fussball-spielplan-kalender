@@ -178,9 +178,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:876d40705256e880ead2ef9a2f41ea2805cff3e394f9047cd6e71d128a61800e@fussba
  ll-spielplan-kalender
-DTSTAMP:20261103T002133Z
-DTSTART;TZID=Europe/Berlin:20261107T123000
-DTEND;TZID=Europe/Berlin:20261107T141500
+DTSTAMP:20261103T212616Z
+DTSTART;TZID=Europe/Berlin:20261107T113000
+DTEND;TZID=Europe/Berlin:20261107T131500
 SUMMARY:JFV Lohe-Bad Oeynhausen II - TuS Petershagen/​Ovenstädt
 DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/jfv-lohe
  -bad-oeynhausen-ii-tus-petershagen-ovenstaedt/-/spiel/032ISTUIAG000000VS54
