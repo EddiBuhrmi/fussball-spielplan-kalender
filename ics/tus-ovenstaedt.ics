@@ -26,22 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cded2dba46b90885a79a42c420a264d48a4be43765da5a8727648a1156d53e67@fussba
- ll-spielplan-kalender
-DTSTAMP:20260926T215713Z
-DTSTART;TZID=Europe/Berlin:20260831T171500
-DTEND;TZID=Europe/Berlin:20260831T190000
-SUMMARY:JSG Holzhausen/​Hausberge II - TuS Petershagen/​Ovenstädt (1:2
- )
-DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
- piel/jsg-holzhausen-hausberge-ii-tus-petershagen-ovenstaedt/-/spiel/031LQU
- TBJ0000000VS5489BUVVKNMR0J
-URL:https://www.fussball.de/spiel/jsg-holzhausen-hausberge-ii-tus-petershag
- en-ovenstaedt/-/spiel/031LQUTBJ0000000VS5489BUVVKNMR0J
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:47ddf0f204f57e125ec4876f52f6205281c6ba0ee3b450a08e5f6a7fd1100a2a@fussba
  ll-spielplan-kalender
 DTSTAMP:20260926T215713Z
@@ -178,10 +162,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:876d40705256e880ead2ef9a2f41ea2805cff3e394f9047cd6e71d128a61800e@fussba
  ll-spielplan-kalender
-DTSTAMP:20261103T212616Z
+DTSTAMP:20261107T152043Z
 DTSTART;TZID=Europe/Berlin:20261107T113000
 DTEND;TZID=Europe/Berlin:20261107T131500
-SUMMARY:JFV Lohe-Bad Oeynhausen II - TuS Petershagen/​Ovenstädt
+SUMMARY:JFV Lohe-Bad Oeynhausen II - TuS Petershagen/​Ovenstädt (5:1)
 DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/jfv-lohe
  -bad-oeynhausen-ii-tus-petershagen-ovenstaedt/-/spiel/032ISTUIAG000000VS54
  89BUVSGKI48U
@@ -318,6 +302,20 @@ DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
  rshagen-ovenstaedt-union-minden/-/spiel/032ISTUJH4000000VS5489BUVSGKI48U
 URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-union-minden/-
  /spiel/032ISTUJH4000000VS5489BUVSGKI48U
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eb0093cbc74c70f2ff0bc22b663b82556ce438a07726f329a02b131836d27928@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261107T152043Z
+DTSTART;TZID=Europe/Berlin:20270313T123000
+DTEND;TZID=Europe/Berlin:20270313T141500
+SUMMARY:SVKT 07 Minden - TuS Petershagen/​Ovenstädt
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/svkt-07-
+ minden-tus-petershagen-ovenstaedt/-/spiel/032ISTUJM8000000VS5489BUVSGKI48U
+URL:https://www.fussball.de/spiel/svkt-07-minden-tus-petershagen-ovenstaedt
+ /-/spiel/032ISTUJM8000000VS5489BUVSGKI48U
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
