@@ -177,9 +177,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0edc1370da2688942259960c8afaf0bea7fe372cf5eb2cacd5b70b3adb1ef3e9@fussba
  ll-spielplan-kalender
-DTSTAMP:20261103T002133Z
-DTSTART;TZID=Europe/Berlin:20261114T123000
-DTEND;TZID=Europe/Berlin:20261114T141500
+DTSTAMP:20261110T235119Z
+DTSTART;TZID=Europe/Berlin:20261114T110000
+DTEND;TZID=Europe/Berlin:20261114T124500
 SUMMARY:TuS Petershagen/​Ovenstädt - JSG Am Wiehen
 DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
  rshagen-ovenstaedt-jsg-am-wiehen/-/spiel/032ISTUIGO000000VS5489BUVSGKI48U
