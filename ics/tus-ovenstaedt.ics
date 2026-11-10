@@ -189,6 +189,21 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:40e018fef6f3e62b383bd92073dcafd8ab61adb0716bf68f6be638f5a89073f8@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261110T022908Z
+DTSTART;TZID=Europe/Berlin:20261121T131500
+DTEND;TZID=Europe/Berlin:20261121T150000
+SUMMARY:TuS Petershagen/​Ovenstädt - JFV 2011 Nenndorf I
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/tus-petershagen-ovenstaedt-jfv-2011-nenndorf-i/-/spiel/032LB823840000
+ 00VS5489BTVSIO88SN
+URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-jfv-2011-nennd
+ orf-i/-/spiel/032LB82384000000VS5489BTVSIO88SN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:12170994b550215a85e22e114910ec5e67b19b8820a0f6d31849e35ee0f99425@fussba
  ll-spielplan-kalender
 DTSTAMP:20261103T002133Z
@@ -302,20 +317,6 @@ DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
  rshagen-ovenstaedt-union-minden/-/spiel/032ISTUJH4000000VS5489BUVSGKI48U
 URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-union-minden/-
  /spiel/032ISTUJH4000000VS5489BUVSGKI48U
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:eb0093cbc74c70f2ff0bc22b663b82556ce438a07726f329a02b131836d27928@fussba
- ll-spielplan-kalender
-DTSTAMP:20261107T152043Z
-DTSTART;TZID=Europe/Berlin:20270313T123000
-DTEND;TZID=Europe/Berlin:20270313T141500
-SUMMARY:SVKT 07 Minden - TuS Petershagen/​Ovenstädt
-DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/svkt-07-
- minden-tus-petershagen-ovenstaedt/-/spiel/032ISTUJM8000000VS5489BUVSGKI48U
-URL:https://www.fussball.de/spiel/svkt-07-minden-tus-petershagen-ovenstaedt
- /-/spiel/032ISTUJM8000000VS5489BUVSGKI48U
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
