@@ -204,6 +204,21 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:26c2dec1db56ebea4fd22d2e7c486958dee138b527d00c7aec7cfd092d7bfe4f@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261111T122055Z
+DTSTART;TZID=Europe/Berlin:20261124T174500
+DTEND;TZID=Europe/Berlin:20261124T193000
+SUMMARY:SC RW Maaslingen - TuS Petershagen/​Ovenstädt
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/sc-rw-ma
+ aslingen-tus-petershagen-ovenstaedt/-/spiel/032ISTUJAS000000VS5489BUVSGKI4
+ 8U
+URL:https://www.fussball.de/spiel/sc-rw-maaslingen-tus-petershagen-ovenstae
+ dt/-/spiel/032ISTUJAS000000VS5489BUVSGKI48U
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:12170994b550215a85e22e114910ec5e67b19b8820a0f6d31849e35ee0f99425@fussba
  ll-spielplan-kalender
 DTSTAMP:20261103T002133Z
@@ -228,21 +243,6 @@ DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/fsg-wese
  rland-tus-petershagen-ovenstaedt/-/spiel/032ISTUJ0C000000VS5489BUVSGKI48U
 URL:https://www.fussball.de/spiel/fsg-weserland-tus-petershagen-ovenstaedt/
  -/spiel/032ISTUJ0C000000VS5489BUVSGKI48U
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:26c2dec1db56ebea4fd22d2e7c486958dee138b527d00c7aec7cfd092d7bfe4f@fussba
- ll-spielplan-kalender
-DTSTAMP:20261103T002133Z
-DTSTART;TZID=Europe/Berlin:20261212T120000
-DTEND;TZID=Europe/Berlin:20261212T134500
-SUMMARY:SC RW Maaslingen - TuS Petershagen/​Ovenstädt
-DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/sc-rw-ma
- aslingen-tus-petershagen-ovenstaedt/-/spiel/032ISTUJAS000000VS5489BUVSGKI4
- 8U
-URL:https://www.fussball.de/spiel/sc-rw-maaslingen-tus-petershagen-ovenstae
- dt/-/spiel/032ISTUJAS000000VS5489BUVSGKI48U
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
