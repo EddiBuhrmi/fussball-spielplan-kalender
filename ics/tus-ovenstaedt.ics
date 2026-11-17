@@ -118,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d99bebf07d37bc5c5fc0c856ba3864b9f2fc044dde5a0716eeedd30ce8fddfcb@fussba
  ll-spielplan-kalender
-DTSTAMP:20261012T204614Z
+DTSTAMP:20261117T193119Z
 DTSTART;TZID=Europe/Berlin:20261012T173000
 DTEND;TZID=Europe/Berlin:20261012T191500
 SUMMARY:TuS Petershagen/​Ovenstädt - FSG Weserland (0:0)
@@ -218,15 +218,15 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:a5438c8fddbb87df80d14aa5f00275fbd33fbf315f589ee33ad51318418d5ab6@fussba
+UID:d99bebf07d37bc5c5fc0c856ba3864b9f2fc044dde5a0716eeedd30ce8fddfcb@fussba
  ll-spielplan-kalender
-DTSTAMP:20261103T002133Z
-DTSTART;TZID=Europe/Berlin:20261205T123000
-DTEND;TZID=Europe/Berlin:20261205T141500
-SUMMARY:FSG Weserland - TuS Petershagen/​Ovenstädt
-DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/fsg-wese
- rland-tus-petershagen-ovenstaedt/-/spiel/032ISTUJ0C000000VS5489BUVSGKI48U
-URL:https://www.fussball.de/spiel/fsg-weserland-tus-petershagen-ovenstaedt/
+DTSTAMP:20261117T193119Z
+DTSTART;TZID=Europe/Berlin:20261205T144500
+DTEND;TZID=Europe/Berlin:20261205T163000
+SUMMARY:TuS Petershagen/​Ovenstädt - FSG Weserland
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
+ rshagen-ovenstaedt-fsg-weserland/-/spiel/032ISTUJ0C000000VS5489BUVSGKI48U
+URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-fsg-weserland/
  -/spiel/032ISTUJ0C000000VS5489BUVSGKI48U
 STATUS:CONFIRMED
 TRANSP:OPAQUE
