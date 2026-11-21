@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8a8cc94af23df567c8d83d58c73bdce75e890f058a25e399683b07e2dc5fb81f@fussba
- ll-spielplan-kalender
-DTSTAMP:20260926T215713Z
-DTSTART;TZID=Europe/Berlin:20260905T110000
-DTEND;TZID=Europe/Berlin:20260905T124500
-SUMMARY:TuS Petershagen/​Ovenstädt - SC RW Maaslingen (1:0)
-DESCRIPTION:Wettbewerb: Kreispokal\nhttps://www.fussball.de/spiel/tus-peter
- shagen-ovenstaedt-sc-rw-maaslingen/-/spiel/031J9J6ATO000000VS5489BTVSRD0UH
- 9
-URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-sc-rw-maasling
- en/-/spiel/031J9J6ATO000000VS5489BTVSRD0UH9
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:52a9b9e194de7c43769396f1677753b0a6f08c0a974873b77b49a1e1e9bcc236@fussba
  ll-spielplan-kalender
 DTSTAMP:20260926T215713Z
@@ -118,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d99bebf07d37bc5c5fc0c856ba3864b9f2fc044dde5a0716eeedd30ce8fddfcb@fussba
  ll-spielplan-kalender
-DTSTAMP:20261117T193119Z
+DTSTAMP:20261121T185638Z
 DTSTART;TZID=Europe/Berlin:20261012T173000
 DTEND;TZID=Europe/Berlin:20261012T191500
 SUMMARY:TuS Petershagen/​Ovenstädt - FSG Weserland (0:0)
@@ -176,10 +161,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:40e018fef6f3e62b383bd92073dcafd8ab61adb0716bf68f6be638f5a89073f8@fussba
  ll-spielplan-kalender
-DTSTAMP:20261121T115908Z
+DTSTAMP:20261121T185638Z
 DTSTART;TZID=Europe/Berlin:20261121T131500
 DTEND;TZID=Europe/Berlin:20261121T150000
-SUMMARY:TuS Petershagen/​Ovenstädt - JFV 2011 Nenndorf I
+SUMMARY:TuS Petershagen/​Ovenstädt - JFV 2011 Nenndorf I (1:9)
 DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
  piel/tus-petershagen-ovenstaedt-jfv-2011-nenndorf-i/-/spiel/032P5RU1VG0000
  00VS5489BTVSIO88SN
@@ -220,9 +205,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d99bebf07d37bc5c5fc0c856ba3864b9f2fc044dde5a0716eeedd30ce8fddfcb@fussba
  ll-spielplan-kalender
-DTSTAMP:20261117T193119Z
-DTSTART;TZID=Europe/Berlin:20261205T144500
-DTEND;TZID=Europe/Berlin:20261205T163000
+DTSTAMP:20261121T185638Z
+DTSTART;TZID=Europe/Berlin:20261208T173000
+DTEND;TZID=Europe/Berlin:20261208T191500
 SUMMARY:TuS Petershagen/​Ovenstädt - FSG Weserland
 DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
  rshagen-ovenstaedt-fsg-weserland/-/spiel/032ISTUJ0C000000VS5489BUVSGKI48U
@@ -316,6 +301,21 @@ DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/svkt-07-
  minden-tus-petershagen-ovenstaedt/-/spiel/032ISTUJM8000000VS5489BUVSGKI48U
 URL:https://www.fussball.de/spiel/svkt-07-minden-tus-petershagen-ovenstaedt
  /-/spiel/032ISTUJM8000000VS5489BUVSGKI48U
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:38a479255255659ac2458b8b4c6a205aab5fc2e597382e5fe087e9589005061c@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261121T185638Z
+DTSTART;TZID=Europe/Berlin:20270410T123000
+DTEND;TZID=Europe/Berlin:20270410T141500
+SUMMARY:TuS Petershagen/​Ovenstädt - TuS Bad Oeynhausen
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
+ rshagen-ovenstaedt-tus-bad-oeynhausen/-/spiel/032ISTUK04000000VS5489BUVSGK
+ I48U
+URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-tus-bad-oeynha
+ usen/-/spiel/032ISTUK04000000VS5489BUVSGKI48U
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
