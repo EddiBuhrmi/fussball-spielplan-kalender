@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:52a9b9e194de7c43769396f1677753b0a6f08c0a974873b77b49a1e1e9bcc236@fussba
- ll-spielplan-kalender
-DTSTAMP:20260926T215713Z
-DTSTART;TZID=Europe/Berlin:20260924T180000
-DTEND;TZID=Europe/Berlin:20260924T194500
-SUMMARY:TuS Petershagen/​Ovenstädt - JFV Lohe-Bad Oeynhausen (3:5)
-DESCRIPTION:Wettbewerb: Kreispokal\nhttps://www.fussball.de/spiel/tus-peter
- shagen-ovenstaedt-jfv-lohe-bad-oeynhausen/-/spiel/031J9JLAAK000000VS5489BT
- VSRD0UH9
-URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-jfv-lohe-bad-o
- eynhausen/-/spiel/031J9JLAAK000000VS5489BTVSRD0UH9
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:e4197ccc89fa7a2570138d0c4ca1e76902b142d3fc46cb839c985eff3e41fc31@fussba
  ll-spielplan-kalender
 DTSTAMP:20260926T215713Z
@@ -316,6 +301,21 @@ DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
  I48U
 URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-tus-bad-oeynha
  usen/-/spiel/032ISTUK04000000VS5489BUVSGKI48U
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cf0c0e0a85adaec2fdd71da04b79cc0208b7ec0e5f2c4e66c10efa7c80e46808@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261125T025404Z
+DTSTART;TZID=Europe/Berlin:20270417T123000
+DTEND;TZID=Europe/Berlin:20270417T141500
+SUMMARY:TuS Petershagen/​Ovenstädt - JFV Lohe-Bad Oeynhausen II
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/tus-pete
+ rshagen-ovenstaedt-jfv-lohe-bad-oeynhausen-ii/-/spiel/032ISTUK84000000VS54
+ 89BUVSGKI48U
+URL:https://www.fussball.de/spiel/tus-petershagen-ovenstaedt-jfv-lohe-bad-o
+ eynhausen-ii/-/spiel/032ISTUK84000000VS5489BUVSGKI48U
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
